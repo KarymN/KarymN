@@ -1,12 +1,12 @@
 # Karym Nasir
 
-Building [PromptL](https://promptl.app) — a native iOS/macOS prompt manager for AI tools. Based in Göttingen, Germany.
+Building [PromptMan](https://promptman.app) — a native iOS/macOS prompt manager for AI tools. Based in Göttingen, Germany.
 
 ---
 
 ## Current Focus
 
-**PromptL** · [promptl.app](https://promptl.app)
+**PromptMan** · [promptman.app](https://promptman.app)
 
 A native prompt manager for iOS and macOS. Built with React Native, Expo, SwiftUI, and Supabase. Designed for people who use AI tools seriously and want their prompts organized, accessible, and fast.
 
@@ -28,13 +28,7 @@ A native prompt manager for iOS and macOS. Built with React Native, Expo, SwiftU
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karym-nasir-255760370)
-[![Website](https://img.shields.io/badge/promptl.app-000000?style=for-the-badge&logo=safari&logoColor=white)](https://promptl.app)
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=KarymN&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+[![Website](https://img.shields.io/badge/PromptMan.app-000000?style=for-the-badge&logo=safari&logoColor=white)](https://promptman.app)
 
 ---
 
