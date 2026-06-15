@@ -34,7 +34,7 @@ A native prompt manager for iOS and macOS. Built with React Native, Expo, SwiftU
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=KarymN&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KarymN&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=58a6ff&area_color=1c1c2e" alt="Contribution Graph" width="100%" />
 
 ---
 
